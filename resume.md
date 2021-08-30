@@ -1,10 +1,7 @@
 ---
-
 title: Your name here
 footer_text: "Last updated: June 2021"
-
 ---
-
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
@@ -13,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Occupation
 `2021 - Now`
-**Junior programmer**, *Code Café*, Utrecht
+**Junior programmer**, *Code Caf≈Ω*, Utrecht
 - *Git expert*
 - *Has a digital CV*
 
