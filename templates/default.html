@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>$title$</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Inconsolata:400,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    $for(css)$
+    <link rel="stylesheet" href="$css$" />
+    $endfor$
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="navbar container">
+        <a id="author-name" class="alignable pull-left" href="#">$title$</a>
+      </div>
+      <div style="clear: both"></div>
+      <hr />
+      <div class="container content">
+        $body$
+        <hr />
+        <p id="footer-text">
+          <a href="#" style="color: black"><small>$footer_text$</small></a>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
